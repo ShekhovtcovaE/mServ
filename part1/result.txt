@@ -1,1 +1,0 @@
-[{"uuid":"3dcdbed0-51e4-11ec-9975-03eb431cd6e0","result":7.4}]
